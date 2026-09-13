@@ -1,0 +1,46 @@
+TY  - JOUR
+AU  - Silva, J.
+AU  - Santos, M. A.
+TI  - Um título de artigo qualquer sobre Inteligência Artificial
+PY  - 2023
+JO  - Journal of Artificial Intelligence and Automation
+VL  - 12
+IS  - 3
+SP  - 100
+EP  - 115
+DO  - 10.1000/xyz123
+UR  - https://doi.org/10.1000/xyz123
+AB  - Resumo do artigo, que pode ocupar várias linhas sem repetir a tag inicial.
+Esta segunda linha é uma continuação direta do resumo anterior.
+Mais detalhes podem ser consultados diretamente em https://example.org/project-details
+para verificar o link embutido no texto da continuação.
+KW  - inteligência artificial
+KW  - aprendizado de máquina
+KW  - automação
+ER  - 
+
+TY  - BOOK
+AU  - Knuth, Donald E.
+TI  - The Art of Computer Programming, Volume 1: Fundamental Algorithms
+PY  - 1997
+PB  - Addison-Wesley Professional
+SN  - 978-0201896831
+UR  - https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+N1  - Notas gerais sobre a edição de referência.
+Continuação das notas em uma linha subsequente.
+ER  - 
+
+TY  - CONF
+AU  - Turing, Alan M.
+TI  - Computing Machinery and Intelligence
+PY  - 1950
+T2  - Mind: A Quarterly Review of Psychology and Philosophy
+VL  - 59
+IS  - 236
+SP  - 433
+EP  - 460
+DO  - 10.1093/mind/LIX.236.433
+Z9  - 9999
+X1  - Tag desconhecida customizada de ferramenta externa
+continuação da tag customizada para teste de robustez
+ER  - 

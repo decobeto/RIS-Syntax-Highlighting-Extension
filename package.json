@@ -1,0 +1,56 @@
+{
+  "name": "ris-syntax-highlighting",
+  "displayName": "RIS Syntax Highlighting",
+  "description": "Syntax highlighting and record folding for RIS bibliography files (.ris) exported from Mendeley, Zotero, and EndNote.",
+  "version": "0.1.0",
+  "publisher": "decobeto",
+  "author": "decobeto",
+  "license": "MIT",
+  "icon": "icon.png",
+  "homepage": "https://github.com/decobeto/RIS-Syntax-Highlighting-Extension#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decobeto/RIS-Syntax-Highlighting-Extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/decobeto/RIS-Syntax-Highlighting-Extension/issues"
+  },
+  "keywords": [
+    "ris",
+    "bibliography",
+    "citation",
+    "mendeley",
+    "zotero",
+    "endnote",
+    "syntax",
+    "highlighting"
+  ],
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "ris",
+        "aliases": [
+          "RIS",
+          "ris"
+        ],
+        "extensions": [
+          ".ris"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "ris",
+        "scopeName": "source.ris",
+        "path": "./syntaxes/ris.tmLanguage.json"
+      }
+    ]
+  }
+}

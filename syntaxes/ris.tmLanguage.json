@@ -1,0 +1,91 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "RIS",
+  "scopeName": "source.ris",
+  "patterns": [
+    {
+      "include": "#record-start"
+    },
+    {
+      "include": "#record-end"
+    },
+    {
+      "include": "#field-url-doi"
+    },
+    {
+      "include": "#field-generic"
+    }
+  ],
+  "repository": {
+    "record-start": {
+      "name": "meta.record.start.ris",
+      "match": "^(TY)(\\s{1,2}-\\s*)(.*)$",
+      "captures": {
+        "1": {
+          "name": "keyword.control.record.start.ris"
+        },
+        "2": {
+          "name": "punctuation.separator.key-value.ris"
+        },
+        "3": {
+          "name": "entity.name.type.ris"
+        }
+      }
+    },
+    "record-end": {
+      "name": "meta.record.end.ris",
+      "match": "^(ER)(\\s{1,2}-\\s*)(.*)$",
+      "captures": {
+        "1": {
+          "name": "keyword.control.record.end.ris"
+        },
+        "2": {
+          "name": "punctuation.separator.key-value.ris"
+        },
+        "3": {
+          "name": "comment.line.ris"
+        }
+      }
+    },
+    "field-url-doi": {
+      "name": "meta.field.link.ris",
+      "begin": "^(UR|DO|LK|L[124])(\\s{1,2}-\\s*)",
+      "beginCaptures": {
+        "1": {
+          "name": "entity.name.tag.link.ris"
+        },
+        "2": {
+          "name": "punctuation.separator.key-value.ris"
+        }
+      },
+      "end": "^(?=[A-Z][A-Z0-9]\\s{1,2}-|\\s*$)",
+      "contentName": "markup.underline.link.ris",
+      "patterns": [
+        {
+          "name": "markup.underline.link.ris",
+          "match": "\\S+"
+        }
+      ]
+    },
+    "field-generic": {
+      "name": "meta.field.ris",
+      "begin": "^([A-Z][A-Z0-9])(\\s{1,2}-\\s*)",
+      "beginCaptures": {
+        "1": {
+          "name": "entity.name.tag.ris"
+        },
+        "2": {
+          "name": "punctuation.separator.key-value.ris"
+        }
+      },
+      "end": "^(?=[A-Z][A-Z0-9]\\s{1,2}-|\\s*$)",
+      "contentName": "string.unquoted.ris",
+      "patterns": [
+        {
+          "name": "markup.underline.link.ris",
+          "match": "(https?://[^\\s<>\"']+|10\\.\\d{4,9}/[-._;()/:A-Za-z0-9]+)"
+        }
+      ]
+    }
+  }
+}

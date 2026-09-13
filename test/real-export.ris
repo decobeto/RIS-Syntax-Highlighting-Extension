@@ -1,0 +1,1020 @@
+TY  - JOUR
+AB  - 1. Since its first appearance in 2003 (Grieves 2014), Digital Twin (DT) has been a popular topic for both academia and industry. It is recognised as a key enabling technology for realising the para...
+AU  - Zheng, Xiaochen
+AU  - Lu, Jinzhi
+AU  - Kiritsis, Dimitris
+DA  - 2022/12//
+DO  - 10.1080/00207543.2021.2014591
+IS  - 24
+KW  - Digital twin
+KW  - cognitive digital twin
+KW  - knowledge graph
+KW  - lifecycle management
+KW  - model-based systems engineering
+KW  - ontology
+KW  - semantic modelling
+KW  - systems engineering
+PB  - Taylor & Francis
+PY  - 2022
+SP  - 7610
+EP  - 7632
+TI  - The emergence of cognitive digital twin: vision, challenges and opportunities
+T2  - International Journal of Production Research
+UR  - https://www.tandfonline.com/doi/pdf/10.1080/00207543.2021.2014591
+VL  - 60
+ER  -
+TY  - JOUR
+AB  - Emerging technologies, such as mobile-edge computing (MEC) and next-generation communications are crucial for enabling rapid development and deployment of the Internet of Things (IoT). With the increasing scale of IoT networks, how to optimize the network and allocate the limited resources to provide high-quality services remains a major concern. The existing work in this direction mainly relies on models that are of less practical value for resource-limited IoT networks, and can hardly simulate the dynamic systems in real time. In this article, we integrate digital twins with edge networks and propose the digital twin edge networks (DITENs) to fill the gap between physical edge networks and digital systems. Then, we propose a blockchain-empowered federated learning scheme to strengthen communication security and data privacy protection in DITEN. Furthermore, to improve the efficiency of the integrated scheme, we propose an asynchronous aggregation scheme and use digital twin empowered reinforcement learning to schedule relaying users and allocate spectrum resources. Theoretical analysis and numerical results confirm that the proposed scheme can considerably enhance both communication efficiency and data security for IoT applications.
+AU  - Lu, Yunlong
+AU  - Huang, Xiaohong
+AU  - Zhang, Ke
+AU  - Maharjan, Sabita
+AU  - Zhang, Yan
+DA  - 2021/2//
+DO  - 10.1109/JIOT.2020.3015772
+IS  - 4
+KW  - Blockchain
+KW  - communication efficiency
+KW  - digital twin
+KW  - edge networks
+KW  - federated learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 2276
+EP  - 2288
+TI  - Communication-Efficient Federated Learning and Permissioned Blockchain for Digital Twin Edge Networks
+T2  - IEEE Internet of Things Journal
+UR  - https://ieeexplore.ieee.org/document/9164912
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - Industrial Internet of Things (IoT) enables distributed intelligent services varying with the dynamic and realtime industrial environment to achieve Industry 4.0 benefits. In this article, we consider a new architecture of digital twin (DT) empowered Industrial IoT, where DTs capture the characteristics of industrial devices to assist federated learning. Noticing that DTs may bring estimation deviations from the actual value of device state, a trusted-based aggregation is proposed in federated learning to alleviate the effects of such deviation. We adaptively adjust the aggregation frequency of federated learning based on Lyapunov dynamic deficit queue and deep reinforcement learning (DRL), to improve the learning performance under the resource constraints. To further adapt to the heterogeneity of industrial IoT, a clustering-based asynchronous federated learning framework is proposed. Numerical results show that the proposed framework is superior to the benchmark in terms of learning accuracy, convergence, and energy saving.
+AU  - Sun, Wen
+AU  - Lei, Shiyu
+AU  - Wang, Lu
+AU  - Liu, Zhiqiang
+AU  - Zhang, Yan
+DA  - 2021/8//
+DO  - 10.1109/TII.2020.3034674
+IS  - 8
+KW  - Asynchronous
+KW  - communication efficiency
+KW  - digital twin (DT)
+KW  - federated learning
+KW  - learning efficiency
+PB  - IEEE Computer Society
+PY  - 2021
+SP  - 5605
+EP  - 5614
+TI  - Adaptive Federated Learning and Digital Twin for Industrial Internet of Things
+T2  - IEEE Transactions on Industrial Informatics
+UR  - https://ieeexplore.ieee.org/document/9244624
+VL  - 17
+ER  -
+TY  - JOUR
+AB  - Decoupling the physical world and providing standardized service interfaces is still challenging when developing Location Based Services (LBS). This lack also hinders the possibility of developing Intelligent services on top of LBS architectures. In this paper, we propose a multi-layer Digital Twin-based architecture that aims to enable the development of machine learning-based Intelligent LBS (I-LBS) that are able to adapt, evolve, and perform Continual Learning (CL). The platform uses Digital Twins to ensure physical abstraction and provide cyber–physical knowledge to the I-LBSs, which is defined as an execution graph of operation modules. Finally, we simulated a use-case for this platform in the complex scenario of Healthcare organization and management where the I-LBS classifies allowed/not allowed trajectories of users inside a real-existing hospital scenario depending on their role in the organization. The use case is implemented as a Deep Learning-based reconstruction task of high-resolution trajectories processed by the DT architecture that also deploys the I-LBS. The platform is evaluated in terms of physical complexity and computational time on the DT side and on both a traditional machine learning setting and a replay-based CL one for the intelligence side to demonstrate the flexibility and adaptability features introduced by the components for dynamic or unseen scenarios.
+AU  - Lombardo, Gianfranco
+AU  - Picone, Marco
+AU  - Mamei, Marco
+AU  - Mordonini, Monica
+AU  - Poggi, Agostino
+DA  - 2024/1//
+DO  - 10.1016/J.ENGAPPAI.2023.107203
+KW  - Continual Learning
+KW  - Deep Learning
+KW  - Digital Twins
+KW  - Intelligence
+KW  - Internet of Things
+KW  - Location Based System
+KW  - MLOps
+PB  - Pergamon
+PY  - 2024
+SP  - 107203
+EP  - 107203
+TI  - Digital Twin for Continual Learning in Location Based Services
+T2  - Engineering Applications of Artificial Intelligence
+UR  - https://www.sciencedirect.com/science/article/abs/pii/S0952197623013878
+VL  - 127
+ER  -
+TY  - JOUR
+AB  - Digital Twins are complex digital representations of assets that are used by a variety of organizations across the Industry 4.0 value chain. As the digitization of industrial processes advances, Digital Twins will become widespread. As a result, there is a need to develop new secure data sharing models for a complex ecosystem of interacting Digital Twins and lifecycle parties. Decentralized Applications are uniquely suited to address these sharing challenges while ensuring availability, integrity and confidentiality. They rely on distributed ledgers and decentralized databases for data storage and processing, avoiding single points of trust. To tackle the need for decentralized sharing of Digital Twin data, this work proposes an owner-centric decentralized sharing model. A formal access control model addresses integrity and confidentiality aspects based on Digital Twin components and lifecycle requirements. With our prototypical implementation EtherTwin we show how to overcome the numerous implementation challenges associated with fully decentralized data sharing, enabling management of Digital Twin components and their associated information. For validation, the prototype is evaluated based on an industry use case and semi-structured expert interviews.
+AU  - Putz, Benedikt
+AU  - Dietz, Marietheres
+AU  - Empl, Philip
+AU  - Pernul, Günther
+DA  - 2021/1//
+DO  - 10.1016/J.IPM.2020.102425
+IS  - 1
+KW  - Blockchain
+KW  - Decentralized application
+KW  - Digital twin
+KW  - Distributed ledgers
+KW  - Industry 4.0
+PB  - Pergamon
+PY  - 2021
+SP  - 102425
+EP  - 102425
+TI  - EtherTwin: Blockchain-based Secure Digital Twin Information Management
+T2  - Information Processing & Management
+UR  - https://www.sciencedirect.com/science/article/abs/pii/S0306457320309195?via%3Dihub
+VL  - 58
+ER  -
+TY  - JOUR
+AB  - A digital twin is a digital representation of an unique product or product service system that is sufficient to meet the requirements of a set of use cases. Following this definition, the implementation of a digital twin must be derived from concrete use cases along the life cycle of a product. However, the involvement of a variety of different stakeholders and frequent changes of ownership in the value chain complicate the identification of use cases as well as the specification of the digital twin and its governance. This leads to a need for a systematic approach that enables various partners to implement the digital twins needed for their specific use cases. This paper presents a specification technique that combines aspects from Model-Based Systems Engineering with Product Lifecycle Management to support a collaborative front-end planning and specification of digital twins. It integrates the different views of various digital twin stakeholders (product manager, systems engineer, developer, data scientist etc.) in a collaborative model across the value chain. As part of the systematic approach, a digital twin specification grid that structures guidelines for the aspects of a digital twin (e.g. the data sources) across the product life cycle is provided. The presented approach also supports the derivation of a digital twin by integrating different use cases. This specification technique is the first step towards a holistic, Model-Based Digital Twin Design Framework.
+AU  - Rasor, Rik
+AU  - Göllner, Denis
+AU  - Bernijazov, Ruslan
+AU  - Kaiser, Lydia
+AU  - Dumitrescu, Roman
+DA  - 2021/1//
+DO  - 10.1016/J.PROCIR.2021.01.035
+KW  - Digital Twin
+KW  - Front-end Engineering
+KW  - Industry 4.0
+KW  - MBSE
+KW  - Model-based systems engineering
+KW  - Product Lifecycle Management
+PB  - Elsevier
+PY  - 2021
+SP  - 229
+EP  - 234
+TI  - Towards collaborative life cycle specification of digital twins in manufacturing value chains
+T2  - Procedia CIRP
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121000585?via%3Dihub
+VL  - 98
+ER  -
+TY  - JOUR
+AB  - Data-intensive smart applications are currently driving the emergence of edge-enabled computing power network (Edge-CPN) by orchestrating the computing powers (CPs) of edge servers, enabling the converged computing and networking at the edge. Besides, the proliferation of these applications and various smart devices (SDs) is arousing great interest in the joint training of a shared global model by massive SDs via federated learning (FL). Due to the heterogeneity and constrained resources of SDs, the FL performance in the Edge-CPN suffers from the straggler effect, reducing the efficiency of global model aggregation. To tackle this challenge and upgrade the training mode into higher degrees of efficiency and intelligence, in this article, we propose the TwinFed, a novel digital twin (DT)-driven FL framework, which fully leverages ubiquitous CPs to configure the DTs for assisting model training of stragglers. An interplay between the end and edge layers is captured into the architecture design via the hierarchical model aggregation. We develop a unified twinning pipeline to achieve the high-fidelity DTs and efficient model training. A two-stage workflow is also introduced to implement TwinFed by flexibly integrating the computing resource orchestration and training process. Finally, we conduct a case study for anomaly detection in smart factory to validate the superiority of TwinFed in testing accuracy and training loss.
+AU  - Zhang, Long
+AU  - Wu, Ziheng
+AU  - Xu, Haitao
+AU  - Niyato, Dusit
+AU  - Hong, Choong Seon
+AU  - Han, Zhu
+DA  - 2025/3//
+DO  - 10.1109/MNET.2024.3504520
+IS  - 2
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2025
+SP  - 20
+EP  - 28
+TI  - Digital Twin-Driven Federated Learning for Converged Computing and Networking at the Edge
+T2  - IEEE Network
+UR  - https://ieeexplore.ieee.org/document/10764768
+VL  - 39
+ER  -
+TY  - JOUR
+AB  - Industrial Internet of Things (IoT) enables distributed intelligent services varying with the complex industrial environment to achieve the benefits of Industry 4.0. In this paper, we consider a new architecture of digital twin empowered Industrial IoT, in which digital twins capture characteristics of industrial devices to assist federated learning tasks of industrial scenarios. A trust-based aggregation is proposed in federated learning to alleviate the effects of digital twins deviation and emphasize the contribution of high-performance clients. Based on Lyapunov dynamic deficit queue and deep reinforcement learning, we propose a federated learning framework that adaptively adjusts the aggregation frequency to improve the learning performance under resource constraints. Numerical results show that the proposed framework outperforms the benchmark in terms of learning accuracy, convergence, and energy saving.
+AU  - Song, Qiang
+AU  - Lei, Shiyu
+AU  - Sun, Wen
+AU  - Zhang, Yan
+DO  - 10.1109/WCNC49053.2021.9417370
+KW  - Communication efficiency
+KW  - Digital twin
+KW  - Federated learning
+KW  - Learning efficiency
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SN  - 9781728195056
+TI  - Adaptive federated learning for digital twin driven industrial internet of things
+T2  - IEEE Wireless Communications and Networking Conference, WCNC
+UR  - https://ieeexplore.ieee.org/document/9417370
+VL  - 2021-March
+ER  -
+TY  - JOUR
+AB  - Digital Twins (DTs) are the novel paradigm for the development of Cyber-Physical systems. The state of art presents several use cases in different domains, and one of the most complex examples is represented by the Urban Digital Twin (UDT), which aims to virtualize urban assets (e.g., buildings, mobility infrastructures, energy grids, waste management facilities, etc.) and build advanced analysis and prediction services upon a city's digital representation. UDTs represent a formidable example of system of systems, as they are structured into a hierarchy of interconnected DT instances that process and share a huge amount of data subject to different access and usage policies.Regarding data management in complex distributed scenarios, Data Spaces are an emerging paradigm that aims at building a secure and privacy-preserving infrastructure to pool, access, share, process and use data. As a matter of fact, existing DTs solutions (not only in the urban domain) do not present a clear software architecture characterization and, moreover, they pay little attention to the data management aspects.To bridge this gap, in this paper we present the Digital Twin Space, an architectural proposal that aims to instantiate Data Spaces into DTs according to the guidelines set by relevant international projects. We use the UDT as a running example and we validate the model in the case of a smartPV panel, showing that the model matches the real cyber-physical system.
+AU  - Somma, Alessandra
+AU  - Benedictis, Alessandra De
+AU  - Zappatore, Marco
+AU  - Martella, Cristian
+AU  - Martella, Angelo
+AU  - Longo, Antonella
+DO  - 10.1109/BIGDATA59044.2023.10386737
+KW  - Data Spaces
+KW  - Digital Twin architectures
+KW  - International Data Space architecture
+KW  - Urban Digital Twins
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2023
+SN  - 9798350324457
+SP  - 4017
+EP  - 4025
+TI  - Digital Twin Space: The Integration of Digital Twins and Data Spaces
+T2  - Proceedings - 2023 IEEE International Conference on Big Data, BigData 2023
+UR  - https://ieeexplore.ieee.org/document/10386737
+ER  -
+TY  - JOUR
+AB  - Optimizing digital twins in the Industrial Internet of Things (IIoT) requires secure and adaptable AI models. The IIoT enables digital twins, virtual replicas of physical assets, to improve real-time decision-making, but challenges remain in trust, data security, and model accuracy. This paper presents a novel framework combining blockchain technology and federated learning (FL) to address these issues. By deploying AI models on edge devices and using FL, data privacy is maintained while enabling collaboration across industrial assets. Blockchain ensures secure data management and transparency, while explainable AI (XAI) enhances interpretability. The framework improves transparency, control, security, privacy, and scalability for self-optimizing digital twins in IIoT. A real-world evaluation demonstrates the framework’s effectiveness in enhancing security, explainability, and optimization, offering improved efficiency and reliability for industrial operations.
+AU  - Ababio, Innocent Boakye
+AU  - Bieniek, Jan
+AU  - Rahouti, Mohamed
+AU  - Hayajneh, Thaier
+AU  - Aledhari, Mohammed
+AU  - Verma, Dinesh C.
+AU  - Chehri, Abdellah
+DA  - 2025/1//
+DO  - 10.3390/FI17010013
+IS  - 1
+KW  - Industrial Internet of Things
+KW  - blockchain
+KW  - digital twins
+KW  - federated learning
+PB  - Multidisciplinary Digital Publishing Institute
+PY  - 2025
+SP  - 13
+EP  - 13
+TI  - A Blockchain-Assisted Federated Learning Framework for Secure and Self-Optimizing Digital Twins in Industrial IoT
+T2  - Future Internet 2025, Vol. 17, Page 13
+UR  - https://www.mdpi.com/1999-5903/17/1/13/htm
+UR  - https://www.mdpi.com/1999-5903/17/1/13
+VL  - 17
+ER  -
+TY  - JOUR
+AB  - Digital twins represent physical systems in virtual space to enable knowledge intensive tasks. For complex physical systems, effective digital integration can often be achieved by means of a system of aggregated digital twins coupled with a services network. Designing such a system of digital twins and services involves a daunting array of options and considerations. This paper presents a design framework that facilitates systematic, effective decisions when designing a system of digital twins to integrate the data from a complex physical system. The design framework is arranged in six steps: 1) needs and constraints analysis, 2) physical system decomposition, 3) services allocation, 4) performance and quality considerations, 5) implementation considerations and 6) verification and validation. The design framework works with a general reference architecture that combines a digital twin aggregation hierarchy with a service-oriented architecture. This reference architecture allows for the separation of concerns, computational load distribution, incremental development and modular software design. The paper considers the merits of the design framework using two illustrative case studies, i.e. a heliostat field and a smart city. The case studies indicate that the design framework can be applied to a wide range of complex systems and can improve the effectiveness of the design process.
+AU  - Human, C.
+AU  - Basson, A. H.
+AU  - Kruger, K.
+DA  - 2023/1//
+DO  - 10.1016/J.COMPIND.2022.103796
+KW  - Aggregation
+KW  - Complex system
+KW  - Design framework
+KW  - Digital twin
+KW  - Service-oriented architecture
+PB  - Elsevier
+PY  - 2023
+SP  - 103796
+EP  - 103796
+TI  - A design framework for a system of digital twins and services
+T2  - Computers in Industry
+UR  - https://www.sciencedirect.com/science/article/abs/pii/S0166361522001920?via%3Dihub
+VL  - 144
+ER  -
+TY  - JOUR
+AB  - The rapid deployment of Internet-of-Things (IoT) devices in smart environments such as smart campuses and cities necessitates robust Quality-of-Service (QoS) management across heterogeneous networks. In this paper, we extend the concept of Network Digital Twin (NDT) to networked IoT devices, presenting the Network Digital Twin Controller (NDTC) that enhances the functionality and performance of smart environ-ments. Our NDTC addresses key challenges by creating Digital Twins (DTs) of Physical Twins (PTs), synchronizing their states, and performing QoS-related what-if analyses. Specifically, we built a DT-enabled IoT-instrumented smart environment using an open-source Software-Defined Network (SDN) controller. We formulated and solved the state synchronization problem using our proposed Optimal Update (OU) and Gradient-driven Update (GU) algorithms, carefully adjusting the update frequency and data granularity to minimize DT/PT state deviation within given network bandwidth budgets. We also formulated and addressed the what-if analysis problem by selecting optimal what-if analyzers using our Optimal Selection (OS) algorithm for the most accurate QoS predictions under a given computing time budget. Our extensive experiments on a real testbed demonstrated the merits of our proposed solution: (i) our developed NDTC and algorithms meet the functional requirements, (ii) our OU and GU algorithms significantly reduce the state deviation between PTs and DTs, and (iii) our OS algorithm largely reduces the prediction errors of what-if analyses.
+AU  - Wu, Chih Chun
+AU  - Lai, Cheng Chia
+AU  - Venkatasubramanian, Nalini
+AU  - Hsu, Cheng Hsin
+DO  - 10.1109/CLOUDCOM62794.2024.00018
+KW  - Digital Twins
+KW  - Internet-of-Things
+KW  - Smart City
+KW  - What-if Analysis
+PB  - IEEE Computer Society
+PY  - 2024
+SN  - 9798331507589
+SP  - 33
+EP  - 40
+TI  - A Software-Defined Approach to Enabling Network Controllers for Smart Environment Digital Twins
+T2  - Proceedings of the International Conference on Cloud Computing Technology and Science, CloudCom
+UR  - https://ieeexplore.ieee.org/document/10838313
+ER  -
+TY  - JOUR
+AB  - Although digital twins have recently emerged as a clear alternative for reliable asset representations, most of the solutions and tools available for the development of digital twins are tailored to specific environments. Furthermore, achieving complex digital twins often requires the orchestration of technologies and paradigms such as machine learning, the Internet of Things, and 3D visualization, which are rarely seamlessly aligned in open-source solutions. In this paper, we present an open-source framework for the development of compositional digital twins, i.e., advanced digital twins that link individual entities or subsystems to create a higher degree digital twin, allowing knowledge sharing and data relationships. In this open framework, digital twins can be easily developed and orchestrated with 3D-connected visualizations, IoT data streams, and real-time machine-learning predictions. To demonstrate the feasibility of the framework, a use case in the Petrochemical Industry 4.0 has been developed.
+AU  - Robles, Julia
+AU  - Martín, Cristian
+AU  - Díaz, Manuel
+DA  - 2023/11//
+DO  - 10.1016/J.COMPIND.2023.104007
+KW  - 3D visualizations
+KW  - Digital twin composition
+KW  - Industry 4.0
+KW  - Kafka-ML
+KW  - Open-source digital twin framework
+PB  - Elsevier
+PY  - 2023
+SP  - 104007
+EP  - 104007
+TI  - OpenTwins: An open-source framework for the development of next-gen compositional digital twins
+T2  - Computers in Industry
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361523001574
+VL  - 152
+ER  -
+TY  - JOUR
+AB  - Digital twins have generated a lot of hype recently, but questions remain about what the technology actually means and how one can be built for smart cities. There is a lack of unified models and frameworks for data fusions that link the physical and virtual data exchange. This can undermine the uptake of digital twin technology by cities that are unable to tackle urban problems with advanced data-driven solutions. The T-Cell framework developed by the DUET project acts as a container for models, data, and simulations that interact dynamically in a common environment and provide useful insights for smart city decision makers. Dynamic correspondence that links the architecture with models and data makes it possible to monitor and synchronize the state and behavior of the digital twin with the physical environment being mirrored. Individual models are integrated through APIs to form a cloud of models that can be called upon to perform various what-if analyses related to traffic, air quality, or noise pollution. The framework is currently being tested with citizens in three locations in Europe, but it is easily replicable so that any city, no matter its size, can leverage the power of digital twins to achieve its policy goals.
+AU  - Raes, Lieven
+AU  - Michiels, Philippe
+AU  - Adolphi, Thomas
+AU  - Tampere, Chris
+AU  - Dalianis, Athanasios
+AU  - McAleer, Susie
+AU  - Kogut, Pavel
+DO  - 10.1109/MIC.2021.3060962
+IS  - 3
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2022
+SP  - 43
+EP  - 50
+TI  - DUET: A Framework for Building Interoperable and Trusted Digital Twins of Smart Cities
+T2  - IEEE Internet Computing
+UR  - https://ieeexplore.ieee.org/abstract/document/9362182
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - 1. 1.1. In recent years, the tremendous growth and innovative breakthroughs in the digital world and the increasing integration of information and communication technologies (ICT) with industrial o...
+AU  - Onaji, Igiri
+AU  - Tiwari, Divya
+AU  - Soulatiantork, Payam
+AU  - Song, Boyang
+AU  - Tiwari, Ashutosh
+DA  - 2022/8//
+DO  - 10.1080/0951192X.2022.2027014
+IS  - 8
+KW  - Digital twin
+KW  - Industry 4.0
+KW  - automation and control
+KW  - cyber-physical production systems
+KW  - product lifecycle management
+KW  - smart manufacturing
+PB  - Taylor & Francis
+PY  - 2022
+SP  - 831
+EP  - 858
+TI  - Digital twin in manufacturing: conceptual framework and case studies
+T2  - International Journal of Computer Integrated Manufacturing
+UR  - https://www.tandfonline.com/doi/pdf/10.1080/0951192X.2022.2027014
+VL  - 35
+ER  -
+TY  - JOUR
+AB  - Since Industry 4.0 technologies were introduced, manufacturing processes have continued to evolve with, for example, Artificial intelligence (AI), the industrial Internet of things (IIoT), robotics, digital twin technology, and other cutting-edge innovations to empower intelligent manufacturing processes. Nonetheless, there remain obstacles to integration within and optimization of systems of systems. An open-source micro-service architecture can alleviate these hurdles. To demonstrate interoperability between technologies, we have chosen to conduct our research using a physical training factory from Fischertechnik with different digital twins (DTs). In this paper, one digital replica of the physical factory is implemented using a three-dimensional CAD tool (Siemens NX-MCD), while the second is an information-centric digital twin created using Eclipse Ditto. The work is focused on creating digital twins of individual sections of the full factory to achieve interoperability, incorporating open-source frameworks to achieve interoperability and systems binding at run-time, and adapting multiple protocol communications in twins. This work is in progress and foresees two scenarios as its further development. The first is the digital twin's ability to facilitate predictive maintenance. Secondly, the use of an information-centric digital twin in the loop to constantly monitor the production process in the event of connectivity issues.
+AU  - Acharya, Sarthak
+AU  - Wintercorn, Oskar
+AU  - Tripathy, Aparajta
+AU  - Hanif, Muhammad
+AU  - Deventer, Jan Van
+AU  - Päivärinta, Tero
+KW  - Architecture
+KW  - Arrowhead
+KW  - Digital Twin (DT)
+KW  - Ditto
+KW  - Eclipse
+KW  - Industrial Revolution (IR)
+KW  - Interoperability
+KW  - Micro-services
+PB  - 40th Annual Symposium for Computer Science, TKTP-2023
+PY  - 2023
+TI  - Twins Interoperability through Service Oriented Architecture: A use-case of Industry 4.0.
+T2  - 40th Annual Symposium for Computer Science, TKTP-2023
+UR  - http://ceur-ws.org
+ER  -
+TY  - JOUR
+AB  - Digital Twins are starting to revolutionize many industries in the last decade providing a plethora of benefits to optimize the performance of industrial systems. They aim to create a continuously synchronized model of the physical system which enables rapid adaptation to dynamics, mainly unpredicted and undesirable changes. A wide range of industrial fields have already benefited from digital twins technology such as aerospace, manufacturing, healthcare, city management and maritime and shipping. Furthermore, recent research works are starting to study the integration of digital twins for computer networks to allow more innovation and intelligent management. One of the basic building blocks of digital twins technology is the Internet of Things where wireless sensors and actuators are deployed to ensure the interaction between the physical and digital worlds. This type of network is complex to manage due to its severe constraints especially when it controls critical industrial applications, resulting in the Industrial Internet of Things (IIoT). We believe that the optimization of the IIoT will lead to efficient integration of Digital Twins in Industry 4.0. In this paper, we design a Network Digital Twin for the IIoT where sensors, actuators and communication infrastructure are replicated in the digital twin to enable intelligent real-time management of such networks. This way, new networking services such as predictive maintenance, network diagnosis, resource allocation, energy optimization with other intelligent services can be efficiently integrated and exploited in the network life-cycle. We validate the proposed architecture by providing a promising prototype implementation that should unleash the full potential of the network digital twin.
+AU  - Kherbache, Mehdi
+AU  - Maimour, Moufida
+AU  - Rondeau, Eric
+DO  - 10.1109/WOWMOM54355.2022.00089
+KW  - Digital Twin
+KW  - Industy 4.0
+KW  - Internet of Things
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2022
+SN  - 9781665408769
+SP  - 573
+EP  - 578
+TI  - Network Digital Twin for the Industrial Internet of Things
+T2  - Proceedings - 2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks, WoWMoM 2022
+UR  - https://ieeexplore-ieee-org.ez46.periodicos.capes.gov.br/document/9842757
+ER  -
+TY  - JOUR
+AB  - The research into wireless communication and mobile computing is called to formulate novel smart mobility solutions to improve the quality of a citizen's life in smart cities. In such a context, in this paper we elaborate on the role of technologies like multi-access edge computing (MEC), Internet of Things (IoT) messaging protocols, such as Constrained Application Protocol (CoAP) and Message Queue Telemetry Transport (MQTT), and virtualization (i.e., digital twins) in the design of a framework enabling the collection and processing of data about the mobility of commuters and public transport vehicles. Such data have the purpose to feed mobility monitoring and transport planning solutions. A Proof-of-Concept (PoC) is developed to validate the framework under realistic experimental settings. Results in terms of efficiency and effectiveness of the considered messaging protocols are reported.
+AU  - Campolo, Claudia
+AU  - Genovese, Giacomo
+AU  - Molinaro, Antonella
+AU  - Pizzimenti, Bruno
+DA  - 2020/9//
+DO  - 10.1109/DS-RT50469.2020.9213699
+KW  - CoAP
+KW  - Digital Twin
+KW  - MQTT
+KW  - MaaS
+KW  - Multi-access Edge Computing
+KW  - OMA LwM2M
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2020
+SN  - 9781728173436
+TI  - Digital Twins at the Edge to Track Mobility for MaaS Applications
+T2  - Proceedings of the 2020 IEEE/ACM 24th International Symposium on Distributed Simulation and Real Time Applications, DS-RT 2020
+UR  - https://ieeexplore-ieee-org.ez46.periodicos.capes.gov.br/document/9213699
+ER  -
+TY  - JOUR
+AB  - In modern networking industrial environments, characterized by the integration of Operation Technology and Information Technology, there is a strong need to ensure both safety and security of operations and communications. In this regard, IEC 62443 zones and conduits represent powerful high-level abstractions stressing the importance of clearly separating machines in relation to safety requirements and of clearly defining inter-machine communication security requirements. However, their actual implementation is still demanded to human-centric error-prone procedures performed by technicians directly on network elements, without any integrated plant-wide point of view. To overcome these issues, first of all we originally state the need of applying the Digital Twin approach to zones and conduits, making easier the definition and management of inter-machine security requirements. For instance, industrial technicians can specify that communication among two zones should always flows through a ciphered conduit with a given algorithm and key length, at the cost of increased latency. Secondly, we state the need of exploiting an intelligent reasoner to monitor the current state of the environment (represented by asset and network Digital Twins), actively reconfiguring them in case desired requirements are not satisfied. Then, the reasoner allows to enforce requirements while also considering the fulfillment of a proper trade-off between security and performance, e.g., by reducing the ciphering complexity to ensure prompt packet dispatching whenever required. Performance results based on our working prototype demonstrate the feasibility and efficiency of the proposed solution under stringent requirements typical of industrial environments. In particular, in terms of better flexibility we proved that our orchestrator is able to create a new Digital Twin in less than 2.5 s in a typical edge node with a medium load. In addition, proposed routing policies based on our machine learning reasoner led to the satisfaction of well-defined low latency requirements (250 ms) while avoiding packet dropping.
+AU  - Bellavista, Paolo
+AU  - Giannelli, Carlo
+AU  - Mamei, Marco
+AU  - Mendula, Matteo
+AU  - Picone, Marco
+DA  - 2022/9//
+DO  - 10.1016/J.PMCJ.2022.101646
+KW  - Digital twin
+KW  - Industry 4.0
+KW  - Intelligent reconfiguration
+KW  - Internet of things
+KW  - Zones and conduits
+PB  - Elsevier
+PY  - 2022
+SP  - 101646
+EP  - 101646
+TI  - Digital twin oriented architecture for secure and QoS aware intelligent communications in industrial environments
+T2  - Pervasive and Mobile Computing
+UR  - https://www.sciencedirect.com/science/article/pii/S1574119222000736?via%3Dihub
+VL  - 85
+ER  -
+TY  - JOUR
+AB  - The application of Internet of Things (IoT) within industrial environments is fostering the adoption of the digital twin (DT) approach, applied at the edge of the network to handle heterogeneity stemming from siloed application management solutions and from protocols originated by different manufacturing tools and enterprise services. In this challenging context, network heterogeneity also represents a critical element that can significantly limit the design and deployment of DT-oriented applications. This article proposes the Application-driven digital twin networking middleware with the twofold objective of: 1) Simplifying the interaction among heterogeneous devices by allowing DTs to exploit IP-based protocols instead of specialized industrial ones and to enhance packet content expressiveness, by enriching data via well-defined standards. 2) Dynamically managing network resources in edge industrial environments, applying software defined networking to exploit the communication mechanisms most suitable to application requirements, ranging from native IP to more articulated based on packet content.
+AU  - Bellavista, Paolo
+AU  - Giannelli, Carlo
+AU  - Mamei, Marco
+AU  - Mendula, Matteo
+AU  - Picone, Marco
+DA  - 2021/11//
+DO  - 10.1109/TII.2021.3067447
+IS  - 11
+KW  - Application-driven management
+KW  - Digital twin (DT)
+KW  - Edge computing
+KW  - Industrial IoT
+KW  - Software defined networking (SDN)
+PB  - IEEE Computer Society
+PY  - 2021
+SP  - 7791
+EP  - 7801
+TI  - Application-Driven Network-Aware Digital Twin Management in Industrial Edge Environments
+T2  - IEEE Transactions on Industrial Informatics
+UR  - https://ieeexplore-ieee-org.ez46.periodicos.capes.gov.br/document/9382113
+VL  - 17
+ER  -
+TY  - JOUR
+AB  - There is a growing interest in the concept of a Digital Twin, and more and more companies want to take advantage of the benefits and demand them on the market. As the number of Digital Twins continues to grow, however, the question arises how to deal with a multitude of Digital Twins in a factory, and especially how to integrate Digital Twins on a certain level of detail into a Digital Twin on a higher level of abstractions, and how these networks can be managed if each Digital Twin is to be considered individually. The concept presented in this paper shows a possibility to combine Digital Twins in a structured network which is controlled by one single point of truth, called the Digital Twin of a System. An exemplary application of the Digital Twin of a System is presented. Furthermore advantages of the Digital Twin of a System are introduced and discussed. Finally directions for future research on this topic are suggested.
+AU  - Reiche, Leif Thore
+AU  - Gundlach, Claas Steffen
+AU  - Mewes, Gian Frederik
+AU  - Fay, Alexander
+DO  - 10.1109/ETFA45728.2021.9613594
+KW  - Digital Model
+KW  - Digital Shadow
+KW  - Digital Twin
+KW  - Digital Twin of a System
+KW  - Networks of Digital Twins
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SN  - 9781728129891
+TI  - The Digital Twin of a System: A Structure for Networks of Digital Twins
+T2  - IEEE International Conference on Emerging Technologies and Factory Automation, ETFA
+UR  - https://ieeexplore.ieee.org/document/9613594
+VL  - 2021-September
+ER  -
+TY  - JOUR
+AB  - Among the tenets of Smart Manufacturing (SM) or Industry 4.0 (I4.0), digital twin (DT), which represents the capabilities of virtual representations of components and systems, has been cited as the biggest technology trend disrupting engineering and design today. DTs have been in use for years in areas such as model-based process control and predictive maintenance, however moving forward a framework is needed that will support the expected pervasiveness of DT technology in the evolution of SM or I4.0. A set of requirements for a DT framework has been derived from analysis of DT definitions, DTs in use today, expected DT applications in the near future, and longer-term DT trends and the DT vision in SM. These requirements include elements of re-usability, interoperability, interchangeability, maintainability, extensibility, and autonomy across the entire DT lifecycle. A baseline framework for DT technology has been developed that addresses many aspects of these requirements and enables the addressing of the requirements more fully through additional specification. The baseline framework includes a definition of a DT and an object-oriented (O-O) architecture for DTs that defines generalization, aggregation and instantiation of DT classes. Case studies using and extending the baseline framework illustrate its advantages in supporting DT solutions and trends in SM.
+AU  - Moyne, James
+AU  - Qamsane, Yassine
+AU  - Balta, Efe C.
+AU  - Kovalenko, Ilya
+AU  - Faris, John
+AU  - Barton, Kira
+AU  - Tilbury, Dawn M.
+DO  - 10.1109/ACCESS.2020.3000437
+KW  - Digital twin
+KW  - industry 40
+KW  - modeling
+KW  - prediction
+KW  - smart manufacturing
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2020
+SP  - 107781
+EP  - 107801
+TI  - A Requirements Driven Digital Twin Framework: Specification and Opportunities
+T2  - IEEE Access
+UR  - https://ieeexplore.ieee.org/document/9109299
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - Digital twins (DTs) are virtual implementations of physical systems (PSs) and can represent the states of the PSs in realtime. In order to update the DTs with changes in their corresponding PSs, the PSs should regularly send their state information data to the DTs. Each DT must be assigned to an execution server (ES) that processes the forwarded data from its corresponding PS. The output is then made available to applications that are operating at an Internet cloud server. In this article, we consider the problem of DT placement such that the maximum data request-response delay experienced by the application over all PSs is minimized, subject to maximum data age target constraints at the DTs and the application server. The problem is first formulated as an integer quadratic program (IQP) and then transformed into a semidefinite program (SDP). The problem is NP-complete. Since exact polynomial solutions are unavailable, several practical polynomial-time approximation algorithms are introduced. The algorithms are designed to give solutions with different tradeoffs between the accommodation of the application input timing latency and the achievement of data age targets.
+AU  - Vaezi, Mehrad
+AU  - Noroozi, Kiana
+AU  - Todd, Terence D.
+AU  - Zhao, Dongmei
+AU  - Karakostas, George
+DA  - 2023/7//
+DO  - 10.1109/JIOT.2023.3244424
+IS  - 13
+KW  - Data age target
+KW  - digital twin (DT)
+KW  - minimum delay
+KW  - placement
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2023
+SP  - 11547
+EP  - 11557
+TI  - Digital Twin Placement for Minimum Application Request Delay With Data Age Targets
+T2  - IEEE Internet of Things Journal
+UR  - https://ieeexplore.ieee.org/document/10042978
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - A Mobile Networks Digital Twin (MNDT) is a virtual replica of a mobile communication network that accurately models the devices, the communication links, the operating environment, and the applications that run on the physical network. By replicating different environments in a laboratory and running multiple scenarios, Digital Twins provide a cost-effective way to evaluate performance, predict the effects of network changes, optimize network management, and make appropriate decisions. This paper presents a methodology for automatically creating and using Network Digital Twins, along with a proposed architecture for performing this implementation. This work is framed in the context of the B5GEMINI project, whose goal is to develop an MNDT applied to a 5G core environment and its evolution towards 6G, being able to apply it to use cases in advanced scenarios such as cybersecurity or Industry 4.0. The proposed methodology covers the entire lifecycle of the MNDT, from the initial phases of data acquisition and modeling to the phases of use and bidirectional connection between physical and digital elements.
+AU  - Sanz Rodrigo, Mario
+AU  - Rivera, Diego
+AU  - Moreno, Jose Ignacio
+AU  - Alvarez-Campana, Manuel
+AU  - Lopez, Diego R.
+DO  - 10.1109/ACCESS.2023.3267548
+KW  - 5G core
+KW  - architecture
+KW  - design methodology
+KW  - digital twin (DT)
+KW  - management and orchestration (MANO)
+KW  - mobile networks digital twin (MNDT)
+KW  - network function virtualization (NFV)
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2023
+SP  - 38112
+EP  - 38126
+TI  - Digital Twins for 5G Networks: A Modeling and Deployment Methodology
+T2  - IEEE Access
+UR  - https://ieeexplore.ieee.org/document/10103508
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - In recent years, digital twins have been pervading different application domains - from manufacturing to healthcare - as an approach for virtualising different kinds of physical entities (things, products, machines). The dominant view developed in the literature so far is about the virtualisation of individual physical assets in a closed-system perspective. In this article, we introduce and explore a broader perspective that we call Web of Digital Twins (WoDT), in which the digital twin paradigm is exploited for the pervasive softwarisation of possibly large-scale interrelated physical realities. A WoDT can be conceived as an open, distributed and dynamic ecosystem of connected digital twins, functioning as an interoperable service-oriented layer for applications running on top, especially smart applications and multiagent systems. The article introduces an abstract model and architecture aimed to capture key aspects of the idea not bound to any specific application domains or implementing technologies and discusses their adoption in engineering real-world systems. To this purpose, two concrete case studies are considered, in the context of healthcare and smart mobility. Finally, the article includes a discussion of a selected set of research directions.
+AU  - Ricci, Alessandro
+AU  - Croatti, Angelo
+AU  - Mariani, Stefano
+AU  - Montagna, Sara
+AU  - Picone, Marco
+DA  - 2022/11//
+DO  - 10.1145/3507909;CSUBTYPE:STRING:JOURNAL;SUBPAGE:STRING:BASIC
+IS  - 4
+KW  - Digital twins
+KW  - MAS
+KW  - WoDT
+KW  - agents
+KW  - web
+PB  - Association for Computing Machinery
+PY  - 2022
+TI  - Web of Digital Twins
+T2  - ACM Transactions on Internet Technology
+UR  - https://dl.acm.org/doi/10.1145/3507909
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - Digital twins are virtual software copies of physical objects and systems, and represent a strategic technology enabler to support Internet of Things devices and systems. Existing software frameworks for digital twins mainly operate in the cloud and are based on platform-specific solutions, harming interoperability and adaptability. However, it is getting recognized that Internet of Things and digital twins architectures can take advantage of microservices and platform-independent distributed architectures (also on the edge), promoting higher scalability, adaptability, and interoperability. In this context, we introduce WLDT (White Label Digital Twins), a general-purpose library that allows developers to create digital twins in terms of modular, adaptable, and inter-operable software agents. Among different features, WLDT library supports multiple standard protocols, caching, software processing pipeline and metrics monitoring.
+AU  - Picone, Marco
+AU  - Mamei, Marco
+AU  - Zambonelli, Franco
+DA  - 2021/1//
+DO  - 10.1016/J.SOFTX.2021.100661
+KW  - Digital twin
+KW  - Internet of Things
+KW  - Library
+KW  - Software agent
+PB  - Elsevier
+PY  - 2021
+SP  - 100661
+EP  - 100661
+TI  - WLDT: A general purpose library to build IoT digital twins
+T2  - SoftwareX
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711021000066
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - This paper introduces an MQTT-based Data Distribution Framework for Digital Twin Networks (MDTN), a solution aimed at overcoming the inherent challenges of data sharing and scalability in digital twin ecosystems. Digital twins (DTs) enable real-time synchronization between physical entities and their virtual counterparts. However, achieving scalable, secure, and efficient data sharing across interconnected DTs remains a significant technical challenge. To address these limitations, MDTN adopts a layered architecture, integrating MQTT brokers, dynamic service management, and advanced trust mechanisms to enable robust data distribution. The framework is designed to support a wide range of communication scenarios through its modular and scalable infrastructure. It ensures secure, real-time data sharing and trustworthiness via services like JWT-based authentication and dynamic resource allocation. The feasibility of MDTN is demonstrated through a smart city use case, highlighting its scalability in managing interactions between stationary and mobile entities. Moreover, the framework’s adaptability in cloud environments is illustrated, leveraging containerization to optimize performance and resource utilization.
+AU  - Alhazmi, Turki
+AU  - Azzedin, Farag
+AU  - Hammoudeh, Mohammad
+DA  - 2025/7//
+DO  - 10.1145/3726122.3726269
+KW  - DTN
+KW  - Digital Twin Networks
+KW  - Digital Twins
+KW  - MQTT
+KW  - Smart Cities
+PB  - Association for Computing Machinery
+PY  - 2025
+SN  - 9798400711701
+SP  - 1008
+EP  - 1013
+TI  - MQTT Based Data Distribution Framework for Digital Twin Networks
+T2  - ACM International Conference Proceeding Series
+UR  - /doi/pdf/10.1145/3726122.3726269?download=true
+ER  -
+TY  - JOUR
+AB  - This paper presents a comprehensive approach of a novel framework architecture for distributed digital twins (DTs) in power systems. This scientific work is a part of the research project AUTOGRID1, which goal is the development and investigation of new methods and algorithms to increase the automation-level for the distribution grid operation based on distributed DTs.. A higher automation level is required in order to maintain the stability and safe operation of the grid under high penetration of renewable energies and power electronic devices. In this sense, the DTs are an important part of this project, because they allow enhancing the system observability, capture systems dynamic and adapt the DT models according to changes and events in the real systems. Hence, this paper describes a framework architecture for coupling multiple DT models, their requirements and the implemented functionalities in each DT. © VDE VERLAG GMBH. Berlin. Offenbach
+AU  - Monsalve, Cristian
+AU  - Alramlawi, Mansour
+AU  - Ruhe, Stephan
+AU  - Schäfer, Kevin
+AU  - Nicolai, Steffen
+AU  - Bretschneider, Peter
+PY  - 2021
+TI  - A novel framework architecture for distributed digital twins in power systems
+T2  - ETG-Kongress 2021 - Von Komponenten bis zum Gesamtsystem fur die Energiewende
+UR  - https://www.scopus.com/pages/publications/85117591748?origin=resultslist
+ER  -
+TY  - JOUR
+AB  - Digitalisation creates new opportunities for businesses to implement and manage collaborative ecosystems both internally and externally. Digital twin (DT) is a rapidly emerging technology that can be used to facilitate new models of interaction and sharing of information. DT is the digital version of a physical process or asset that can be used to model, manage, and optimise its physical counterpart. Connecting multiple DTs is vital to provide a holistic integration and view across complex ecosystems. To create a DT-based collaborative ecosystem architecture, the following concerns need to be addressed. Trust is a fundamental requirement because multiple parties will work together as part of a composite DT. Interoperability is essential, as DTs from various domains will be required to interconnect and operate seamlessly. Finally, the governance is challenging as different scenarios require various mechanisms and governance structures. This study presents an architecture to enable multiple DT-based collaborative ecosystems, and example use case scenarios to demonstrate its applicability in collaborative manufacturing. © 2022 The Authors. IET Collaborative Intelligent Manufacturing published by John Wiley & Sons Ltd on behalf of The Institution of Engineering and Technology.
+AU  - Kuruppuarachchi, Pasindu Manisha
+AU  - Rea, Susan
+AU  - McGibney, Alan
+DA  - 2023/3//
+DO  - 10.1049/cim2.12070
+IS  - 1
+KW  - composite digital twin
+KW  - digital ecosystems
+KW  - digital twin
+KW  - governance
+KW  - interoperability
+KW  - trust
+PB  - John Wiley and Sons Inc
+PY  - 2023
+TI  - Trusted and secure composite digital twin architecture for collaborative ecosystems
+T2  - IET Collaborative Intelligent Manufacturing
+UR  - https://www.scopus.com/pages/publications/85142808129?origin=resultslist
+VL  - 5
+ER  -
+TY  - JOUR
+AB  - The demands for mass individualization and networked collaborative manufacturing are increasing, bringing significant challenges to effectively organizing idle distributed manufacturing resources. To improve production efficiency and applicability in the distributed manufacturing environment, this paper proposes a multi-agent and cloud-edge orchestration framework for production control. A multi-agent system is established both at the cloud and the edge to achieve the operation mechanism of cloud-edge orchestration. By leveraging Digital Twin (DT) technology and Industrial Internet of Things (IIoT), real-time status data of the distributed manufacturing resources are collected and processed to perform the decision-making and manufacturing execution by the corresponding agent with permission. Based on the generated data of distributed shop floors and factories, the cloud production line model is established to support the optimal configuration of the distributed idle manufacturing resources by applying a systematic evaluation method and digital twin technology, which reflects the actual manufacturing scenario of the whole production process. In addition, a rescheduling decision prediction model for distributed control adjustment on the cloud is developed, which is driven by Convolutional Neural Network (CNN) combined with Bi-directional Long Short-Term Memory (BiLSTM) and attention mechanism. A self-adaptive strategy that makes the real-time exceptions results available on the cloud production line for holistic rescheduling decisions is brought to make the distributed manufacturing resources intelligent enough to address the influences of different degrees of exceptions at the edge. The applicability and efficiency of the proposed framework are verified through a design case. © 2023 Elsevier Ltd
+AU  - Nie, Qingwei
+AU  - Tang, Dunbing
+AU  - Liu, Changchun
+AU  - Wang, Liping
+AU  - Song, Jiaye
+DA  - 2023/8//
+DO  - 10.1016/j.rcim.2023.102543
+KW  - Cloud production line
+KW  - Cloud-edge orchestration
+KW  - Digital twin
+KW  - Heterogeneous multi-agent system
+KW  - Long short-term memory
+PB  - Elsevier Ltd
+PY  - 2023
+TI  - A multi-agent and cloud-edge orchestration framework of digital twin for distributed production control
+T2  - Robotics and Computer-Integrated Manufacturing
+UR  - https://www.scopus.com/pages/publications/85147843969?origin=resultslist
+VL  - 82
+ER  -
+TY  - JOUR
+AB  - The emergence of digital twins as virtual replicas of physical assets has revolutionized various industries, offering unparalleled insights and opportunities for optimization. However, managing and coordinating interactions among digital twins pose significant challenges, necessitating the development of orchestrators. This paper tackles this issue by proposing an orchestrator framework designed to handle interconnected digital twins, examining its effectiveness through applied scenarios in smart city contexts. The framework comprises federation, translation, brokering, and synchronization components. To demonstrate its efficacy, digital twins of smart environments and smart driving were developed and collaborated on applications including hotspot prediction and eco-driving assistance within smart city services. © 2022 Copyright for this paper by its authors.
+AU  - Nguyen, Do-Van
+AU  - Dao, Minh-Son
+AU  - Zettsu, Koji
+PY  - 2024
+TI  - Digital Twin Orchestration: Framework and Smart City Applications
+T2  - CEUR Workshop Proceedings
+UR  - https://www.scopus.com/pages/publications/85210229633?origin=resultslist
+ER  -
+TY  - JOUR
+AB  - Multi-robot collaborative manufacturing (MRCMfg) is vital to ensure effective and efficient operation in the manufacturing industry. In recent years, enabled by the new generation of information technology, represented by the digital twin (DT), the digitalization of MRCMfg has progressed steadily. However, more complex manufacturing tasks and more customized manufacturing demands pose challenges to MRCMfg, which limit the applicability of MRCMfg in practice. Recent successes in intelligent manufacturing show that empowering DT with the intelligence and cognition capabilities to adapt to the above challenges is a promising approach. Inspired by that, a cognitive digital twin (CDT) framework with multiple artificial intelligence algorithms for MRCMfg is proposed. The framework consists of three critical spaces: (i) Physical-virtual space: multi-agent system-based DT; (ii) Cognition space: multi-behavior tree (BT) cognition models; (iii) Data space: data-driven cognition evolution. In the data space, multimodal perception is a important way to improve the cognition capabilities of MRCMfg. To alleviate the multimodal data quality requirements as well as to improve the robustness of the perception model, an incomplete multimodal Transformer with deep autoencoder (IMTDAE) approach is proposed. The effectiveness and feasibility of this framework and IMTDAE are verified by case studies. The results provide compelling evidence that this framework has the potential to significantly enhance the intelligence and cognition capabilities of MRCMfg. © 2024 Elsevier Ltd
+AU  - Xu, Wenjun
+AU  - Yang, Hang
+AU  - Ji, Zhenrui
+AU  - Ba, Mengyuan
+DA  - 2024/8//
+DO  - 10.1016/j.cie.2024.110418
+KW  - Artificial intelligence
+KW  - Cognition evolution
+KW  - Cognitive digital twin
+KW  - Multi-robot collaborative manufacturing
+KW  - Transformer
+PB  - Elsevier Ltd
+PY  - 2024
+TI  - Cognitive digital twin-enabled multi-robot collaborative manufacturing: Framework and approaches
+T2  - Computers and Industrial Engineering
+UR  - https://www.scopus.com/pages/publications/85199770540?origin=resultslist
+VL  - 194
+ER  -
+TY  - JOUR
+AB  - Introduction: Digital Twins (DT) have appeared as a significant tool in Industrial Internet of Things (IIoT) environments, allowing real-time monitoring, predictive maintenance, and maximizing device performance. However, integrating DTs with IIoT initiates serious security issues, specifically in the device’s authentication and authorization. The state-of-the-art mechanisms are exposed to insider threats, single points of failure, and privacy issues. Methods: This study proposes a blockchain-based access control framework for cross-domain DTs. The blockchain (BC) integration eliminates reliance on the centralized authentication server. It uses platform verification from the manufacturer to validate IIoT device integrity and mitigate insider threats. Moreover, the authorization mechanism is implemented using smart contract and access control policies stored in BC. The proposed Non-Fungible Tokens enable role and permission delegation. Results and Discussion: The integration of Hyperledger Fabric BC, platform hash verification, and NFT-based authorization in the proposed architecture enhanced its resilience against cyber-attacks i.e., replay, DoS/DDoS, insider, and spoofing attacks. Moreover, the proposed framework validates its viability with response times (approximately 300ms) for the authentication and authorization phases. Additionally, identity resolution attains 67 % depletion in latency compared to its counterpart. Copyright © 2025 Ali, Shah, Elaffendi and Ahmad.
+AU  - Ali, Gauhar
+AU  - Shah, Sajid
+AU  - Elaffendi, Mohammed
+AU  - Ahmad, Naveed
+DO  - 10.3389/fbloc.2025.1693926
+KW  - authentication
+KW  - authorization
+KW  - blockchain
+KW  - digital twins
+KW  - industrial internet of things
+PB  - Frontiers Media SA
+PY  - 2025
+TI  - Blockchain-based access management framework for interoperable digital twins in industrial IoT
+T2  - Frontiers in Blockchain
+UR  - https://www.scopus.com/pages/publications/105025697341?origin=resultslist
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - Digital twins (DTs) are becoming integral in sectors such as energy and manufacturing, catalyzing applications from monitoring and analysis to optimization and autonomous management. However, data in different formats, volumes, and qualities require high processing capabilities for integration. Moreover, the functionalities in DTs must work together, bringing interoperability challenges that have necessitated extensive manual programming. To address these, we propose the Internet of Twins, a disaggregated DT deployed in a distributed cloud architecture where interconnections are made using a remote procedure call framework, gRPC. Using this, we develop DT as a platform with knowledge-graph-based orchestration. Here, we implement a recursive execution algorithm to ensure necessary data are processed in the correct sequence autonomously. Then, we implement a wind energy pilot application and evaluate the performance. The results show that our approach lowers data preprocessing and line-of-code overhead up to 20% and 26%, creating a flexible and scalable architecture.  © 1997-2012 IEEE.
+AU  - Cakir, Lal Verda
+AU  - Ozdem, Mehmet
+AU  - Ahmadi, Hamed
+AU  - Duong, Trung Q.
+AU  - Canberk, Berk
+DO  - 10.1109/MIC.2024.3491915
+IS  - 1
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2025
+SP  - 65
+EP  - 74
+TI  - Internet of Twins Approach: Digital-Twin-as-a-Platform Architecture
+T2  - IEEE Internet Computing
+UR  - https://www.scopus.com/pages/publications/105003038423?origin=resultslist
+VL  - 29
+ER  -
+TY  - JOUR
+AB  - Digital twins have been a trending concept in recent years. As a result, the number of digital twins has been steadily growing, and their reuse and composition are open questions. For example, The Thing In The Future (Thing'In) platform gives the possibility to represent a complex system as a Property Graph of Digital Twins (DT)s. However, the representation of the graph hinders understanding of the system and raises the question of modeling more complex digital twins and synchronizing the graph with the system it represents.In this paper, we propose an approach for creating Composite Digital Twins (CDT)s of complex systems based on a graph of Digital Twins (DT)s. The approach is articulated between a Data Plane (DP) which hosts the graph representation of a complex system and a Control Plane (CP) that synchronizes the DP and the Physical Plane (PP) hosting the complex system. In our solution, we provide mechanisms to create user-defined CDTs that are a composition of other DTs. We also propose transparent mechanisms to ensure the synchronisation of CDTs with the physical world. We explain the main steps of our approach illustrated by an example and discuss possible use cases.
+AU  - Mahoro, Dan Freeman
+AU  - Ledoux, Thomas
+AU  - Hassan, Thomas
+AU  - Coupaye, Thierry
+DA  - 2023/12//
+DO  - 10.1145/3631319.3632300
+KW  - composition
+KW  - design of composite digital twin
+KW  - synchronisation
+KW  - synthetic properties
+PB  - Association for Computing Machinery, Inc
+PY  - 2023
+SN  - 9798400704611
+SP  - 13
+EP  - 18
+TI  - Articulating Data and Control Planes for the Composition and Synchronization of Digital Twins
+T2  - Midd4DT 2023 - Proceedings of the 1st International Workshop on Middleware for Digital Twin, Part of: MIDDLEWARE 2023
+UR  - /doi/pdf/10.1145/3631319.3632300?download=true
+ER  -
+TY  - JOUR
+AB  - Cyber-Physical Systems (CPS) are new systems designed to support and synthesize sensing, communication, and computing components that interact with physical objects so that the system can sense, monitor, control, and respond to changes occurring in their operating environments. With developing Internet of Things (IoT), edge/cloud computing, and Artificial Intelligence (AI), another new paradigm - Digital Twin (DT), as an enabler for realizing the Metaverse of CPS has emerged recently. The DT provides a virtual replica of the physical world, allowing for real-time monitoring, control, and analysis of safety-critical systems like the CPS. Even though many CPS-related problems can be addressed using DT concepts, it is critical to define DT’s integration clearly to leverage its features to the best possible extent. This paper introduces a new layer called the data layer in the CPS layer architecture to support different DT functionalities. Like the layer and abstract design paradigm of modern operation systems and computer networks, the data layer serves as an abstraction layer, providing immense flexibility and interchangeability of various data sources, supporting applications, and adapting to other components and environments. This also accelerates the growth of smart-world systems and their integration in different application domains (smart grid, smart transportation, smart manufacturing, smart cities, smart healthcare, etc.). To this end, this paper presents a new data layer structure to support CPS applications and the integration of multiple CPS. We propose a hierarchical architecture to synthesize DT techniques as an independent layer in our architecture, deeply integrated into existing CPS. We discuss key issues: leveraging the data layer to support applications in various CPS, incorporating the data layer and physical layer, and building a data layer using distributed computing, naming services, etc. Finally, the paper outlines future research directions based on the presented new data layer architecture for CPS.
+AU  - Qian, Cheng
+AU  - Guo, Yifan
+AU  - Hussaini, Adamu
+AU  - Musa, Abubakar
+AU  - Sai, Akshita
+AU  - Yu, Wei
+DA  - 2024/6//
+DO  - 10.1145/3674974
+KW  - CPS
+KW  - Digital Twins
+KW  - Machine Learning
+KW  - Metaverse
+PB  - Association for Computing Machinery (ACM)
+PY  - 2024
+TI  - A New Layer Structure of Cyber-Physical Systems under the Era of Digital Twin
+T2  - ACM Transactions on Internet Technology
+UR  - https://dl.acm.org/doi/10.1145/3674974
+ER  -
+TY  - JOUR
+AB  - IoT systems based on Digital Twins (DTs) - virtual copies of physical objects and systems - can be very effective to enable data-driven services and promote better control and decisions, in particular by exploiting distributed approaches where cloud and edge computing cooperate effectively. In this context, digital twins deployed on the edge represents a new strategic element to design a new wave of distributed cyber-physical applications. Existing approaches are generally focused on fragmented and domain-specific monolithic solutions and are mainly associated to model-driven, simulative or descriptive visions. The idea of extending the DTs role to support last-mile digitalization and interoperability through a set of general purpose and well-defined properties and capabilities is still underinvestigated. In this paper, we present the novel Edge Digital Twins (EDT) architectural model and its implementation, enabling the lightweight replication of physical devices providing an efficient digital abstraction layer to support the autonomous and standard collaboration of things and services. We model the core capabilities with respect to the recent definition of the state of the art, present the software architecture and a prototype implementation. Extensive experimental analysis shows the obtained performance in multiple IoT application contexts and compares them with that of state-of-the-art approaches.
+AU  - Picone, Marco
+AU  - Mamei, Marco
+AU  - Zambonelli, Franco
+DA  - 2023/2//
+DO  - 10.1145/3573206
+IS  - 1
+KW  - Additional Key Words and PhrasesDigital Twin
+KW  - Internet of Things
+KW  - edge computing
+PB  - Association for Computing Machinery
+PY  - 2023
+TI  - A Flexible and Modular Architecture for Edge Digital Twin: Implementation and Evaluation
+T2  - ACM Transactions on Internet of Things
+UR  - /doi/pdf/10.1145/3573206?download=true
+VL  - 4
+ER  -
+TY  - JOUR
+AB  - A digital twin (DT), the digital counterpart of a physical entity, process, or system, is a pivotal innovation driving the manufacturing industry's digital transformation. DT plays a significant role in product lifecycle management (PLM) and product condition monitoring. However, the diversity of systems and processes involved poses challenges in DT and data management within PLM, particularly regarding efficiency, standardized data mapping, and latency. The paper presents a solution architecture to address these challenges and contribute towards an efficient and cost-effective product lifecycle management system. The architecture focuses on DT's data management and communication aspects, utilizing the edge-based, decentralized Eclipse Arrowhead Framework and EDMtruePLM (Enterprise Data Management True Product Lifecycle Management) for standardized data management and condition monitoring of products. Integrating the ISO 10303 STEP standard for data modeling and the Open Platform Communications Unified Architecture (OPC UA) standard for communication is emphasized, improving the contextual significance of the data and the system's interoperability. A use case implementation is presented, where a fischertechnik assembly line is monitored, capturing sensor data through the PLC's OPC UA server. The sensor data is then aligned with the STEP standard and stored in the EDMTruePLM database for monitoring.
+AU  - Tripathy, Aparajita
+AU  - Chevuri, Rishyank
+AU  - Tran, Tuan
+AU  - Acharya, Sarthak
+AU  - Deventer, Jan Van
+AU  - Paniagua, Cristina
+AU  - Delsing, Jerker
+DA  - 2024/10//
+DO  - 10.1145/3685651.3685653
+KW  - Digital Twin
+KW  - EDMtruePLM
+KW  - Eclipse Arrowhead Framework
+KW  - ISO 10303 STEP
+KW  - OPC UA
+PB  - Association for Computing Machinery
+PY  - 2024
+SN  - 9798400709845
+SP  - 57
+EP  - 65
+TI  - Digital Twin-based Condition Monitoring with Distributed Data Mapping of OPC UA and ISO 10303 STEP Standard
+T2  - ACM International Conference Proceeding Series
+UR  - https://dl.acm.org/doi/10.1145/3685651.3685653
+ER  -
+TY  - JOUR
+AB  - The digital twin of distribution network covers models including topology, geography, space, production, operation, control, measurement, marketing, electric field, etc. There is no unified rule framework for multi domain ontology modeling methods, and there is an urgent need for model fusion and comprehensive utilization. This article focuses on the cross domain joint modeling problem of distribution network ontology, conducts research on the fusion method of multi domain ontology models of distribution network digital twins, proposes a multi type model resource fusion and comprehensive utilization method with equipment and facilities as the core, integrates business models and power grid models, studies multi domain ontology model fusion interoperability technology for digital twins, and realizes the comprehensive utilization of distribution network digital twin model resources.
+AU  - Wang, Gang
+AU  - Wang, He
+AU  - Xu, Min
+AU  - Zhou, Aihua
+AU  - Yu, Hai
+AU  - Qian, Zhonghao
+DA  - 2025/5//
+DO  - 10.1145/3717934.3718013;PAGE:STRING:ARTICLE/CHAPTER
+KW  - Digital twin
+KW  - Distribution network
+KW  - Model fusion
+KW  - Multi domain ontology
+KW  - Operation method
+PB  - Association for Computing Machinery, Inc
+PY  - 2025
+SN  - 9798400707087
+SP  - 516
+EP  - 522
+TI  - Multi Domain Ontology Model Fusion and Interoperability Method of Digital Twin in Distribution Network
+T2  - ICITEE 2024 - Proceedings of the 7th International Conference on Information Technologies and Electrical Engineering
+UR  - /doi/pdf/10.1145/3717934.3718013?download=true
+ER  -
+TY  - JOUR
+AB  - A Digital Twin (DT) is a digital representation of a physical object, offering unique features such as object mirroring, object relation, data availability, and user interaction. In this paper, we discuss the challenges of deploying urban infrastructure for DT-enabled smart city applications, such as air-quality-aware navigation and traffic management, which aim to improve citizens' quality of life and assist policymakers' decision-making. We refer to this research problem as urban DT planning, with the core objective of enhancing the interoperability and scalability of geolocation- and capability-diverse hardware and software by leveraging modern middleware approaches. Our explorations consist of the following three steps. First, we present our perspective on urban DT planning and propose a general, layered DT architecture. Second, we share our preliminary experiments involving a micro wind turbine using commercial (Microsoft Azure) and open-source (Eclipse) DT platforms. Finally, we conclude the paper with open challenges that need to be studied to achieve the ultimate goal of sustainable smart cities. These challenges are intended to inspire future research on sustainable urban DT planning and encourage the broader adoption of DT-enabled smart city applications.
+AU  - Lai, Cheng Chia
+AU  - Sarkar, Agnibha
+AU  - Dinh, Phuong Anh
+AU  - Gaikwad, Suyash
+AU  - Hsu, Cheng Hsin
+DA  - 2024/12//
+DO  - 10.1145/3702636.3703443;CSUBTYPE:STRING:CONFERENCE
+KW  - Digital Twins
+KW  - Internet-of-Things
+KW  - Platforms
+KW  - Smart Cities
+PB  - Association for Computing Machinery, Inc
+PY  - 2024
+SN  - 9798400713385
+SP  - 7
+EP  - 12
+TI  - Urban Digital-Twin Planning for Sustainable Smart Cities: System Architecture, Preliminary Experiments, and Open Challenges
+T2  - MIDD4DT 2024 - Proceedings of the 2nd ACM International Workshop on Middleware for Digital Twins, Part of: MIDDLEWARE 2024
+UR  - /doi/pdf/10.1145/3702636.3703443?download=true
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - IoT devices must often be configured to be remotely managed and monitored. The configuration process is referred to as a provisioning process, where the device is configured into an operational state. This paper presents a DT architecture for provisioning, managing, and monitoring heterogeneous IoT devices. The architecture is targeted towards the device-as-a-service (DaaS) context, where the complexities involved in managing IoT devices is hidden from the user, and where the uptime of the IoT devices is critical. Device management here includes installing applications on the devices (to fulfill the functional requirements of the user) and monitoring the devices. The architecture presented here is aimed at use in a large manufacturing enterprise, such as an automotive manufacturer. A preliminary evaluation of the architecture shows its potential to dynamically handle the provisioning, managing, and monitoring of IoT devices. The preliminary evaluation shows how the architecture supports devices that use both publish-subscribe and request-response interaction methods, and even handle complex scenarios containing a human in the loop.
+AU  - Maree, Jean Marc J.
+AU  - Kruger, Karel
+AU  - Basson, Anton H.
+DA  - 2024/10//
+DO  - 10.1145/3652620.3688258;PAGE:STRING:ARTICLE/CHAPTER
+KW  - Digital twin
+KW  - IoT device management
+KW  - IoT device provisioning
+PB  - Association for Computing Machinery, Inc
+PY  - 2024
+SN  - 9798400706226
+SP  - 442
+EP  - 452
+TI  - A Digital Twin Architecture for the Provisioning, Management, and Monitoring of Heterogenous IoT Devices
+T2  - MODELS 2024 - ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings
+UR  - /doi/pdf/10.1145/3652620.3688258?download=true
+ER  -
+TY  - JOUR
+AB  - As digital twin ecosystems (DTEs) expand across various sectors, enabling secure and trusted collaboration among diverse instances remains a critical challenge. Current approaches often lack standardized mechanisms for data sharing, governance, and trust, hindering large-scale interoperability. This paper presents an approach for the secure federation of DTs using data spaces (DSs), grounded in NGSI-LD standards and policy-based governance models, including ODRL-based access control. This federation approach facilitates trusted data exchange among heterogeneous digital twin (DT) instances through a layered trust and governance approach, supporting decentralization and scalability. Moreover, the proposed approach addresses key barriers to DT federation and offers pathways to integrate participants from trusted federated context in complex DT environments securely, leveraging advantages of DS technology.A case study documents an implementation of this federation approach, demonstrating how DSs enable secure context data sharing across different DT environments.
+AU  - Martella, Cristian
+AU  - Martella, Angelo
+AU  - Longo, Antonella
+DA  - 2025/10//
+DO  - 10.1145/3704413.3765512;CSUBTYPE:STRING:CONFERENCE
+KW  - context data
+KW  - data sovereignty
+KW  - data space
+KW  - digital twin
+KW  - federated digital twin
+PB  - Association for Computing Machinery, Inc
+PY  - 2025
+SN  - 9798400713538
+SP  - 418
+EP  - 427
+TI  - Enabling secure and trusted digital twin federations with data spaces
+T2  - MobiHoc 2025 - Proceedings of the 2025 International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing.
+UR  - /doi/pdf/10.1145/3704413.3765512?download=true
+VL  - 25
+ER  -
+TY  - JOUR
+AB  - Complex, industry-wide challenges such as sustainable production require collaboration across various industry actors, such as manufacturers, automation system providers and engineering technology suppliers, as well as across their related systems. While the digital twin paradigm offers immense potential through virtual asset representations for advanced predictions and analytics, building digital twins that are shared across organization boundaries and interfacing with the existing systems is not easily achieved. In fact, lack of interoperability of asset digital twins has been recognized as a growth inhibitor as well as limiting reaching the full potential and maturity of digital twins. As a solution, we present a modular, interoperable digital twin architecture named CRADLE, short for Cross-Vendor Asset Digital Twin Architecture to enable collaborations across organizational boundaries and illustrate it via an application to paper manufacturing. The industrial interoperability standards of Asset Administration Shell (AAS), Functional Mock-up Interface (FMI), OPC UA and AutomationML, are suitably combined for integration with multiple industrial production systems as well as different cloud platforms. Use cases of energy optimization and emissions reduction, operational planning and material flow optimization are enabled through the cross-vendor asset digital twin and illustrated in the context of paper manufacturing.
+AU  - Juhlin, Prerna
+AU  - Schlake, Jan
+AU  - Song, Chen
+AU  - Zehnpfund, Andreas
+AU  - Grüner, Sten
+AU  - Schmeiser, Andreas
+AU  - Kratzer, Kai
+AU  - Othen, Rosario
+AU  - Sejdija, Jonathan
+AU  - Kayser, Philip
+DO  - 10.1109/ETFA65518.2025.11205610
+KW  - Index Terms-cross-vendor collaboration
+KW  - asset digital twin
+KW  - digital twin passport
+KW  - emissions reduction
+KW  - energy optimization
+KW  - industrial standards
+KW  - interoperability
+KW  - sustainable manufacturing
+PY  - 2025
+SN  - 9798331553838
+TI  - CRADLE: Cross-Vendor Asset Digital Twin Architecture using Industrial Interoperability Standards with Application to Paper Manufacturing
+T2  - 2025 IEEE 30th International Conference on Emerging Technologies and Factory Automation (ETFA)
+UR  - https://ieeexplore.ieee.org/document/11205610
+ER  -
+TY  - JOUR
+AB  - Digital Twin (DT) technology represents a cutting-edge methodology that digitally maps physical entities with high fidelity, leading to the digital twin network (DTN) through its integration with network technologies. DTN establishes bidi-rectional communication between virtual and physical spaces, enabling real-time monitoring, dynamic optimization, and precise control of physical networks. This addresses challenges posed by network expansion and service diversification, revolutionizing the management and optimization of complex network systems. Despite its potential, DTN implementation remains challenging, with research still nascent and lacking detailed guidelines. This article aims to bridge this gap by presenting a comprehensive survey of the reference architecture for real-world DTN implementation and its key enabling technologies. It begins by defining the conceptual foundation of DTN and reviewing related architectural studies. This is followed by the proposal of a universal and scalable modular DTN architecture, encompassing the physical layer, data layer, DT model layer, and service layer. We then explore the critical enabling technologies required for implementing this architecture and analyze applications enhanced by DTN. Notably, We propose a five-level digital twin model evolution taxonomy framework that systematically reveals the evolution path from basic mapping to ultrahigh-fidelity autonomous inference. This framework provides a structured evaluation benchmark for optimizing and advancing digital twin models. Finally, we discuss the primary open issues in DTN, offering theoretical and practical guidance for future research in this field. Index Terms-Architecture, artificial intelligence (AI), blockchain, data, deep reinforcement learning (DRL), digital twin network (DTN), federated learning (FL), graph neural network (GNN), model, service.
+AU  - Pan, Yidan
+AU  - Lei, Lei
+AU  - Shen, Gaoqing
+AU  - Zhang, Xinting
+AU  - Cao, Pan
+DO  - 10.1109/JIOT.2025.3565265
+IS  - 12
+PY  - 2025
+SP  - 15
+EP  - 15
+TI  - A Survey on Digital Twin Networks: Architecture, Technologies, Applications, and Open Issues
+T2  - IEEE INTERNET OF THINGS JOURNAL
+UR  - https://www.ieee.org/publications/rights/index.html
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - This study presents a digital twin system designed to monitor, predict, and optimize linear welding parameters in real time, with applications in Industry 4.0 and smart manufacturing. The system leverages Kubernetes to seamlessly integrate various sensors, enabling their dynamic allocation to different aggregates and ensuring scalability for adding new devices as needed. The selected computational models, including machine learning and fuzzy logic-based approaches, provided effective real-time feedback to the welding aggregate by dynamically adjusting welding power. GitOps practices and event-driven communication using message queues facilitated efficient deployment and management in this dynamic and distributed environment, facilitating continuous system updates and minimizing downtime. By providing real-time feedback to welding machine operators and functioning as a digital twin, this system enhances both simulation capabilities and physical process control, demonstrating potential for cross-domain interoperability and advanced decision-making frameworks.
+AU  - Hajder, Piotr
+AU  - Mojzeszko, Mateusz
+AU  - Hallo, Filip
+AU  - Hajder, Lucyna
+AU  - Regulski, Krzysztof
+AU  - Banaś, Krzysztof
+AU  - Pernach, Monika
+AU  - Szeliga, Danuta
+AU  - Bzowski, Krzysztof
+AU  - Michalik, Kazimierz
+AU  - Mrozek, Adam
+AU  - Sztangret, Łukasz
+AU  - Wilkus, Marek
+AU  - Jazdzewski, Tomasz
+AU  - Jȩdrysik, Wojciech
+AU  - Nadolski, Rafał
+AU  - Opaliński, Andrzej
+AU  - Rauch, Łukasz
+DO  - 10.1109/PERCOMWORKSHOPS65533.2025.00057
+IS  - 2025
+KW  - Big data
+KW  - Digital Twin
+KW  - Industry 4.0
+KW  - Kubernetes
+KW  - Linear welding
+KW  - Machine Learning
+KW  - Non-destructive testing
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2025
+SN  - 9798331535537
+SP  - 152
+EP  - 157
+TI  - Event-Driven and Scalable Digital Twin System for Real-Time Non-Destructive Testing in Industrial Computational Systems
+T2  - IEEE International Conference on Pervasive Computing and Communications Workshops, PerCom Workshops
+UR  - https://ieeexplore.ieee.org/document/11038568
+ER  -
+TY  - JOUR
+AB  - The digital twin (DT) is a virtual representation of a physical object, which has been proposed as one of the key concepts for Industry 4.0. The DT provides a virtual representation of products along their lifecycle that enables the prediction and optimization of the behavior of a production system and its components. A methodology design using model-driven engineering (MDE) is proposed that strives toward being both flexible and generic. This approach is presented at two levels: first, a DT is modeled as a composition of basic components that provide basic functionalities, such as identification, storage, communication, security, data management, human-machine interface (HMI), and simulation; second, an aggregated DT is defined as a hierarchical composition of other DTs. A generic reference architecture based on these concepts and a concrete implementation methodology are proposed using AutomationML. This methodology follows an MDE approach that supports most of the DT features currently proposed in the literature. A case study has been developed, the proposed ideas are being evaluated with industrial case studies, and some of the preliminary results are described in this article. With the case study, it is possible to verify that the proposed methodology supports the creation and the deployment process of a DT.
+AU  - Schroeder, Greyce N.
+AU  - Steinmetz, Charles
+AU  - Rodrigues, Ricardo Nagel
+AU  - Henriques, Renato Ventura Bayan
+AU  - Rettberg, Achim
+AU  - Pereira, Carlos Eduardo
+DA  - 2021/4//
+DO  - 10.1109/JPROC.2020.3032444
+IS  - 4
+KW  - AutomationML
+KW  - Industry 4.0 (I4.0)
+KW  - cyber-physical systems (CPSs)
+KW  - digital twin (DT)
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 556
+EP  - 567
+TI  - A Methodology for Digital Twin Modeling and Deployment for Industry 4.0
+T2  - Proceedings of the IEEE
+UR  - https://ieeexplore.ieee.org/document/9247401
+VL  - 109
+ER  -
+TY  - JOUR
+AB  - The rise of Digital Twin (DT) technology has revolutionized various sectors, offering simulation, monitoring, and optimization capabilities for complex systems. However, the rapid expansion of DT platforms, coupled with the need to deploy twins across the edge-to-cloud computing spectrum, has led to significant fragmentation and management challenges. These complexities should not hinder the application layer's goal of achieving interoperability and integrated management of DT instances. This paper introduces the Digital Twin Continuum (DTC) as a unified framework to address the challenges of DT coordination, hiding platform intricacies, while tackling the orchestration of communication and computing resources in the edge-to-cloud continuum. In this study, we define the concept of DTC, outlining its modeling principles, core functionalities and architectural components. We conduct an initial experimental evaluation of a DTC prototype in a realistic automotive use case, targeting two reference DT runtimes.
+AU  - Barbone, Antonello
+AU  - Burattini, Samuele
+AU  - Martinelli, Matteo
+AU  - Picone, Marco
+AU  - Ricci, Alessandro
+AU  - Virdis, Antonio
+DO  - 10.1109/ICCCN61486.2024.10637565
+KW  - Compute-Continuum
+KW  - Cyber-Physical Systems
+KW  - Digital Twin
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2024
+SN  - 9798350384611
+TI  - Digital Twin Continuum: a Key Enabler for Pervasive Cyber-Physical Environments
+T2  - Proceedings - International Conference on Computer Communications and Networks, ICCCN
+UR  - https://ieeexplore.ieee.org/document/10637565
+ER  -
