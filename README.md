@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="RIS Syntax Highlighting Logo" />
+  <img src="icon.png" width="128" alt="RIS Citation & Bibliography Support Logo" />
 </p>
 
-<h1 align="center">RIS Syntax Highlighting</h1>
+<h1 align="center">RIS Syntax Highlighting / RIS Citation & Bibliography Support</h1>
 
 <p align="center">
   <b>Clean, robust syntax highlighting and reference folding for RIS (<code>.ris</code>) bibliography files.</b>
@@ -17,7 +17,7 @@
 
 ## Overview
 
-The **RIS Syntax Highlighting** extension adds first-class support for Research Information Systems (`.ris`) bibliographic citation files in **VS Code**, **Antigravity IDE**, and compatible editors.
+The **RIS Citation & Bibliography Support** extension adds first-class support for Research Information Systems (`.ris`) bibliographic citation files in **VS Code**, **Antigravity IDE**, and compatible editors.
 
 RIS is a standardized tag format widely used by reference management tools such as **Mendeley**, **Zotero**, **EndNote**, **RefWorks**, and academic publishers (IEEE, ACM, Springer, Taylor & Francis, ScienceDirect). This extension makes large bibliographic exports readable, structured, and easy to navigate.
 
@@ -82,7 +82,7 @@ ER  -
 ## Installation
 
 ### From Open VSX Registry / VS Code Marketplace
-Search for **RIS Syntax Highlighting** (`decobeto.ris-syntax-highlighting`) in your editor's Extensions tab (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>) and click **Install**.
+Search for **RIS Citation & Bibliography Support** (`decobeto.ris-syntax-highlighting`) in your editor's Extensions tab (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>) and click **Install**.
 
 ### Manual Installation via VSIX
 Download the latest `ris-syntax-highlighting-0.1.0.vsix` from the [Releases](https://github.com/decobeto/RIS-Syntax-Highlighting-Extension/releases) page and run:

@@ -1,6 +1,6 @@
 {
   "name": "ris-syntax-highlighting",
-  "displayName": "RIS Syntax Highlighting",
+  "displayName": "RIS Citation & Bibliography Support",
   "description": "Syntax highlighting and record folding for RIS bibliography files (.ris) exported from Mendeley, Zotero, and EndNote.",
   "version": "0.1.0",
   "publisher": "decobeto",
